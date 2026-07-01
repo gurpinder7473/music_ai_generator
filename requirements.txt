@@ -1,0 +1,5 @@
+music21==9.1.0
+tensorflow==2.16.1
+numpy==1.26.4
+tqdm==4.66.4
+streamlit==1.36.0
